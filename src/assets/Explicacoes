@@ -1,0 +1,10 @@
+assets = guardo as minha midias, fotos, vídeos
+
+
+npx create-react-app "nome do projeto" pARA criar o projeto basico
+
+npm install react-router-don ---- para instalar dependencias de rotas
+
+
+
+npm install axios para fazer requisições
